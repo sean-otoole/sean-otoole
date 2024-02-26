@@ -2,6 +2,10 @@
 
 This is the github page for Sean O'Toole.
 
+At the moment this is a work in progress, many missing files and explanations to be written in the README files for each repository.
+
+In addition to current projects, this page is here to highligh the analysis code I've written for past projects as a postdoctoral fellow and Ph.D. student.
+
 <!--
 **seanotoole/seanotoole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
