@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-This is the github page for Sean O'Toole.
+I'm a molecular biologist and systems neuroscientist who is currently transitioning towards a career in data science!
+
+Welcome to my github page!!!
 
 At the moment it is very much a work in progress, i.e. many missing files and explanations still need to be added or written for each repository.
 
