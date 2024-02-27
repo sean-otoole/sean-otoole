@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my Github Profile! 👋
 
-I'm a molecular biologist and systems neuroscientist who is currently transitioning into a career in data science! In my free time, I like to spend time with my family, exercise, travel, and ocasionally some video gaming.  
+I'm a molecular biologist and systems neuroscientist who is looking for opportunies to work as data scienst! This Github profile is partially meant to highlight some notable past projects as well as what I am working on at the moment. In my free time, I like to spend time with my family,exercise, travel, and ocasionally some video gaming.  
 
 Check out my [Portfolio](https://github.com/sean-otoole/Portfolio) for some of my projects. 
 
