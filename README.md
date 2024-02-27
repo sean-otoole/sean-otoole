@@ -1,14 +1,10 @@
-### Hi there 👋
+### Hi there! Welcome to my Github Profile! 👋
 
-I'm a molecular biologist and systems neuroscientist who is currently transitioning towards a career in data science!
+I'm a molecular biologist and systems neuroscientist who is currently transitioning into a career in data science! In my free time, I like to spend time with my family, exercise, travel, and ocasionally some video gaming.  
 
-Welcome to my github page!!!
+Check out my [Portfolio](https://github.com/sean-otoole/Portfolio) for some of my projects. 
 
-At the moment it is very much a work in progress, i.e. many missing files and explanations still need to be added or written for each repository.
 
-In addition to current projects, this page github serves to highlight the analysis code I've written for past projects as a postdoctoral fellow and Ph.D. student.
-
-<!--
 **seanotoole/seanotoole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
