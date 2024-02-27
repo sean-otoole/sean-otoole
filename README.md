@@ -4,7 +4,7 @@ I'm a molecular biologist and systems neuroscientist who is currently transition
 
 Check out my [Portfolio](https://github.com/sean-otoole/Portfolio) for some of my projects. 
 
-
+<!--
 **seanotoole/seanotoole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
